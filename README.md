@@ -252,4 +252,4 @@ The testbench drives a 100 MHz clock and runs six test groups: basic DC patterns
 
 The saved log and the waveform screenshot agree. The stimulus is applied (addresses 00000, 00008, 00010, then the bank/row sweep 00000, 10000, 20000, 00100 … with data patterns such as all-zeros, all-ones, aaaa…, beefcafe…, feedbeef… and deadbeef…), but the 64-bit read-data bus stays at `x` for the whole captured 0–60 µs window. The log ends at the 500 µs limit with write/read timeouts and 140 error lines, so the read path is not yet verified.
 
-![Simulation waveform, 0 to 60 microseconds, read-data bus at x](images/ddr5_waveform.png)
+![Simulation waveform, 0 to 60 microseconds, read-data bus at x](https://github.com/Aravindakshan953/DDR5-Module/blob/main/DDR5_Waveform.png)
