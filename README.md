@@ -244,7 +244,7 @@ Total on-chip power is 1.23 W (typical process), and 97% of the dynamic power is
 
 Source: Vivado power analysis of the implemented netlist. Percentages under dynamic power are shares of the 0.981 W dynamic total.
 
-![Vivado power summary: 1.23 W total, 0.981 W dynamic, 0.249 W static, junction temperature 26.1 C](images/ddr5_power_summary.png)
+![Vivado power summary: 1.23 W total, 0.981 W dynamic, 0.249 W static, junction temperature 26.1 C](https://github.com/Aravindakshan953/DDR5-Module/blob/main/DDR5_Report_Power.png)
 
 ## 12. Verification
 
