@@ -220,7 +220,7 @@ All user-specified timing constraints are met: worst setup slack is +0.170 ns, w
 
 Source: Vivado Design Timing Summary, evaluated against the clocks and I/O delays listed in section 9.
 
-![Vivado Design Timing Summary: WNS 0.170 ns, WHS 0.097 ns, WPWS 1.267 ns, all constraints met](images/ddr5_timing_summary.png)
+![Vivado Design Timing Summary: WNS 0.170 ns, WHS 0.097 ns, WPWS 1.267 ns, all constraints met](https://github.com/Aravindakshan953/DDR5-Module/blob/main/DDR5_Timing%20constraint.png)
 
 ## 11. Power Summary
 
