@@ -149,7 +149,7 @@ The flip-flop count is dominated by the 16 × 64-bit read buffer (1,024 FFs), be
 
 **Figure (synthesized schematic).** Vivado's schematic of the synthesized design shows the control logic (counters, comparators, state decoding) on the left and a tall column of repeated mux and register slices on the right, consistent with the 16 × 64-bit read/write buffers and the DQ output stage.
 
-![Synthesized schematic of the DDR5 controller from Vivado](images/ddr5_synthesized_schematic.png)
+![Synthesized schematic of the DDR5 controller from Vivado](https://github.com/Aravindakshan953/DDR5-Module/blob/main/DDR5_Synthesized%20Design.png)
 
 ## 9. XDC Constraints (`DDR5_Constraints.xdc`)
 
